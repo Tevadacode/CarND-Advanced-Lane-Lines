@@ -1,4 +1,4 @@
-# CarND-Vehicle-Detection
+# Advanced Lane Finding
 # Camera Calibration
 1. The camera matrix and distortion coeffients been computed correctly and check on one of the calibration images as a test. 
     The code for this step is in calibrateCamera() function defined in helper.py (line 7 to 30). 
